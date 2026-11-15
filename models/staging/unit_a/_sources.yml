@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: unit_a
+    database: unit_a
+    tables:
+      - name: actuals_raw

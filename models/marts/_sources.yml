@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: mea
+    database: mea_agreement
+    tables:
+      - name: agreements
