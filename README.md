@@ -90,5 +90,17 @@ It demonstrates the application of SQL transformations, analytical database inte
 - dbt modelling
 - ClickHouse integration
 - Data quality testing
+
+- ## Dataset Information
+
+This project uses synthetic sample data created
+for learning and demonstration purposes.
+
+No confidential Springer Capital business data
+or actual company dataset was used.
+
+The pipeline demonstrates how dbt Core and
+ClickHouse can be used to transform, validate,
+and compare Actual vs Target performance data.
 - GitHub version control
 - Analytical reporting
