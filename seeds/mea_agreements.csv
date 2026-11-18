@@ -1,0 +1,6 @@
+unit,reporting_month,data_item,monthly_target,maturity_at_start,maturity_at_month_end,target_direction,data_source
+Unit A,2026-01-01,Revenue,100,Live,Live,higher_is_better,unit_a_actuals
+Unit A,2026-01-01,Complaints,10,Live,Live,lower_is_better,unit_a_actuals
+Unit B,2026-01-01,Energy Savings,50,WIP,Live,higher_is_better,unit_b_actuals
+Unit B,2026-01-01,Downtime,5,WIP,WIP,lower_is_better,unit_b_actuals
+Unit B,2026-01-01,Safety Incidents,2,Live,Live,lower_is_better,unit_b_actuals
